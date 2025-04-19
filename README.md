@@ -1,8 +1,8 @@
-# IKEA price comparison magic button
+# CompareTail price comparison magic button for IKEA
 
 A customizable magic button (bookmarklet) to compare IKEA prices across countries.
 
-Try it! &rightarrow; http://mnazarov.github.io/ikeaprices
+Try it! &rightarrow; http://bivanshuk.github.io/CompareTail
 
 ![](demo.gif)
 
